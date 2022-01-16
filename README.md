@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning HTML, CSS, JS and React technologies aspiring to become a full stack developer in the future.
 - 👯 I’m looking to collaborate on small projects to practice the technologies I'm learning.
-- 💬 Ask me about anything and I'll be proudly awnsering.
+- 💬 Ask me about anything and I'll be proudly answering.
 - 😄 Pronouns: He/His Ele/Dele.
 - 📫 How to reach me:
                       - e-Mail: luizfelipejs@eq.ufrj.br
