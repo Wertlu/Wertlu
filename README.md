@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His Ele/Dele.
 - 📫 How to reach me:
 </br>
-                      - e-Mail: luizfelipejs@eq.ufrj.br
+- e-Mail: luizfelipejs@eq.ufrj.br
+</br>
 </br>
 -🛠 Tools I'm currently learning and using:
 </br>
