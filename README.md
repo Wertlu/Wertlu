@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything and I'll be proudly answering.
 - 😄 Pronouns: He/His Ele/Dele.
 - 📫 How to reach me:
+</br>
                       - e-Mail: luizfelipejs@eq.ufrj.br
 </br>
 -🛠 Tools I'm currently learning and using:
